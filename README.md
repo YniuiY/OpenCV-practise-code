@@ -1,2 +1,2 @@
 # OpenCV-practise-code
-This class is base operate in OpenCV 
+Class "QuickOpenCVDemo" is the base operation in OpenCV 
