@@ -25,7 +25,7 @@ int main()
     //quickDemo.pixelVisit(image);
     //quickDemo.pixelOperators(image);
     //quickDemo.trackingBar(image);
-    quickDemo.keyOperators(image);
+    //quickDemo.keyOperators(image);
 
     waitKey(0);
     destroyWindow("บบ DM-i");
